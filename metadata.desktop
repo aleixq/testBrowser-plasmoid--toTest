@@ -1,0 +1,18 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Web browser
+Type=Service
+Icon=internet-web-browser
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Aleix Quintana
+X-KDE-PluginInfo-Email=kinta@communia.org
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Name=org.kde.testBrowser
+X-KDE-PluginInfo-Version=0.1.0
+X-KDE-PluginInfo-Website=plasma.kde.org
+X-KDE-ServiceTypes=Plasma/Applet
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-RemoteLocation=
+X-KDE-PluginInfo-Category=Online Services
+X-Plasma-StandAloneApp=true
